@@ -31,6 +31,8 @@
 	%>
 	
 	<h4>쿠키 생성 후 클라이언트 전송 완료</h4>
+	
+	<a href="./6_2_CookieReceive.jsp">클라이언트 쿠키 확인</a>
 
 </body>
 </html>
